@@ -64,5 +64,4 @@ This project represents the first stage of that analytical workflow.
 
 ## Key Takeaway
 
-Successful machine learning projects begin with understanding the data. This project demonstrates how Python and pandas can be used to inspect, organize, and prepare real-world datasets before performing exploratory data analysis, visualization, and predictive modeling.[Uploading Automatidata Project Lab.ipynb…]()
-[Uploading Automatidata Project Lab.ipynb…]()
+Successful machine learning projects begin with understanding the data. This project demonstrates how Python and pandas can be used to inspect, organize, and prepare real-world datasets before performing exploratory data analysis, visualization, and predictive modeling.
